@@ -1,0 +1,2 @@
+# handleit
+Write the try catch code to handle the exceptions that might occur when running the program.  There should exist an exception with the file size vs. the loop - see if you can catch the exception and move on.  Try add just the available integers into the list and create some sort of message to let the user know that the file did not contain enough data. There should also exist the potential to not be able to divide if the input value is zero. Try and catch this exception and then let the user know what the original sum was instead of the divided value
